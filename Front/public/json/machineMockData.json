@@ -1,0 +1,26 @@
+[
+  {
+    "device": "test1",
+    "umachine_add": "기숙사A",
+    "wval1": 1,
+    "wtime1": 30,
+    "wval2": 0,
+    "wtime2": 0
+  },
+  {
+    "device": "test2",
+    "umachine_add": "기숙사B",
+    "wval1": 1,
+    "wtime1": 20,
+    "wval2": 1,
+    "wtime2": 30
+  },
+  {
+    "device": "test3",
+    "umachine_add": "인제니움",
+    "wval1": 0,
+    "wtime1": 0,
+    "wval2": 0,
+    "wtime2": 0
+  }
+]
